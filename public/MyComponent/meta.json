@@ -1,0 +1,21 @@
+{
+    "state":
+    {
+        "userName": ""
+    },
+    "type": "MyComponent",
+    "title": "My component.",
+    "blurb": "A component to show you the basics",
+    "layouts":
+    {
+        "web":
+            {
+                "col": 7,
+                "row": 1,
+                "size_x": 6,
+                "size_y": 10
+            },
+        "mobile": {},
+        "print": {}
+    }
+}

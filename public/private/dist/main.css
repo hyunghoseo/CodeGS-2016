@@ -1,0 +1,98 @@
+.style {
+  width: 100%;
+  height: 100%; }
+
+.dashboard ul {
+  list-style-type: none;
+  padding: 0; }
+
+.dashboard .db-component-base {
+  background-color: #313132;
+  width: 100%;
+  height: 100%; }
+
+.dashboard .link-button {
+  float: right;
+  margin-right: 20px; }
+
+.dashboard .row {
+  margin-right: 0;
+  margin-left: 0; }
+
+.header {
+  height: 100px;
+  width: 100%;
+  background-color: #6a95c7;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  padding-top: 30px;
+  border-bottom: 1px solid white; }
+  .header .link-button {
+    float: right;
+    margin-right: 20px; }
+
+html, body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  -webkit-box-shadow: inset 0px 0px 0px 20px #333;
+  -moz-box-shadow: inset 0px 0px 0px 20px #333;
+  box-shadow: inset 0px 0px 0px 20px #333; }
+
+.my-component > div {
+  width: 50%;
+  height: 50%;
+  float: left;
+  transition: all 0.7s ease; }
+
+.my-component {
+  height: 100%;
+  width: 100%;
+  background-color: beige;
+  text-align: center; }
+
+.graph {
+  width: 90%;
+  height: 90%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); }
+
+.button {
+  cursor: pointer;
+  padding: 0;
+  border: 0;
+  margin: auto;
+  width: 90%;
+  max-height: 90%; }
+
+#q1:hover {
+  border: none;
+  background: #42BD41; }
+
+#q2:hover {
+  background: #4A46F7;
+  color: #fff; }
+
+#q3:hover {
+  background: #F7464A;
+  color: #fff; }
+
+#q4:hover {
+  background: #FDB45C;
+  color: #fff; }
+
+#hello {
+  color: white;
+  font-size: 30px; }
+
+body, html {
+  width: 100%;
+  height: 100%; }
+
+.sandbox {
+  background-color: #242424;
+  width: 100%;
+  height: 100%; }
